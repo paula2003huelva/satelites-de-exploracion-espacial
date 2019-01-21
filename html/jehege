@@ -1,1 +1,67 @@
+<!DOCTYPE html>
 
+<html>
+
+<head>
+
+<title>Satelites de exploracion espacial</title>
+
+<meta charset= "utf-8">
+
+<link rel='stylesheet' type='text/css' href='css/estilos.css'>
+
+<head>
+
+<body>
+
+<!--A continuación creamos una tabla -->
+
+<table class ='center' style= 'text-align:center;background-color:rgba(66, 244, 197,1)' ; border='1'>
+
+<tr>
+
+<td><a href= 'html/introduccion.html'><img src='figuras/introduccion.jpg'><figcaption style='text-align:center;color:blue;'>Introduccion</figcaption></td>
+
+
+
+<td><a href= 'html/historia del cohete.html'><img src='figuras/historia del cohete.jpg'>Historia del cohete<figcaption style='text-align:center;color:blue;'></figcaption></td>
+
+
+
+<td><a href= 'html/los primeros astronautas.html'><img src='figuras/los primeros astronautas.jpg'><figcaption style='text-align:center;color:blue;'>Los primeros astronautas</figcaption></td>
+
+
+
+<td><a href= 'html/que son los satelites artificiales y coo funcionan.html'><img src='figuras/que son los satelites artificiales y coo funcionan.jpg'><figcaption style='text-align:center;color:blue;'>Que son los satelites artificiales y coo funcionan</figcaption></td>
+
+
+
+<td><a href= 'html/naves espaciales automaticas.html'><img src='figuras/naves espaciales automaticas.jpg'><figcaption style='text-align:center;color:blue;'>Naves espaciales automaticas</figcaption></td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td><a href= 'html/planetas hipoteticos.html'><img src='figuras/planetas hipoteticos.jpg'><figcaption style='text-align:center;color:blue;'>Planetas hipoteticos</figcaption></td>
+
+<td><a href= 'html/cronologia.html'><img src='figuras/cronologia.jpg'><figcaption style='text-align:center;color:blue;'>Cronologia</figcaption></td>
+
+<td><a href= 'html/fotos.html'><img src='figuras/fotos.jpg'><figcaption style='text-align:center;color:blue;'>Fotos</figcaption></td>
+
+<td><a href= 'html/estacion espacial internacional.html'><img src='figuras/estacion espacial internacional.jpg'><figcaption style='text-align:center;color:blue;'>Estacion espacial internacional</figcaption></td>
+
+
+<td><a href= 'html/basura espacial.html'><img src='figuras/basura espacial.jpg'><figcaption style='text-align:center;color:blue;'>Basura espacial</figcaption></td>
+
+
+</tr>
+
+</table>
+
+
+
+</body>
